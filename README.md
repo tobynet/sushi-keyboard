@@ -1,4 +1,6 @@
-# 🍣 The sushi keyboard
+# 🍣 The Sushi Keyboard
+
+![badge](./images/badge01.svg) ![badge](./images/badge00.svg)
 
 [![image](./images/sushi02.jpg)](./images/sushi02.org.jpg)
 
@@ -6,7 +8,7 @@
 
 [![image](./images/sushi01.jpg)](./images/sushi01.org.jpg)
 
-## Recipes
+## 🛠️ Recipes
 
 * Base **PCB** and **electronic components**: [gherkin](https://github.com/di0ib/tmk_keyboard/tree/master/keyboard/gherkin)
 * **Key caps**: Red colored flat keycaps.
